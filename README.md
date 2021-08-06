@@ -1,6 +1,6 @@
-#Elastic Search POC
+# Elastic Search POC
 
-##Elastic Search Local Setup 
+## Elastic Search Local Setup 
 ### Start elastic-search
 `docker-compose up -d`
 
